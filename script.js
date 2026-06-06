@@ -57,7 +57,7 @@
 // });
 
 
-//* new version !
+//* new version ! (AI helped me to make it better)
 
 let OwnNum = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
